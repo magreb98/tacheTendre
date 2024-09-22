@@ -1,5 +1,8 @@
 {
     "Auth": true,
     "Base": true,
-    "Profile": true
+    "Profile": true,
+    "Prestataire": true,
+    "Admin": true,
+    "Service": true
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Prestataire",
+    "alias": "prestataire",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Prestataire\\Providers\\PrestataireServiceProvider"
+    ],
+    "files": []
+}
